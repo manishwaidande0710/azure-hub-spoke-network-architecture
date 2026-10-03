@@ -1,0 +1,5 @@
+*.log
+.env
+*.tmp
+.azure/
+*.tfstate
